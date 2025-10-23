@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib1345&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib1345" /> </p>
 
-- 🌱 I’m currently learning **OOP , C++ , DSA , Python**
+- 🌱 I’m currently learning **OOP , C++ , DSA , Python , Machine Learning , NLP , Deep Learning **
 
 - 📫 How to reach me **shoaibahmedprogramming@gmail.com**
 
