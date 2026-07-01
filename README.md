@@ -190,7 +190,7 @@ Educational platform for Civil Engineering students using
 
 💼 LinkedIn
 
-https://linkedin.com/in/shoaib-ahmed-tech
+https://www.linkedin.com/in/shoaib-ahmed-bullo-53718b271/
 
 🌐 GitHub
 
